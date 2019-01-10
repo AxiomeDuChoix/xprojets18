@@ -1,1 +1,1 @@
-Mise à jour du site XProjets à Symfony 4
+Site XProjets mis à jour à Symfony4
